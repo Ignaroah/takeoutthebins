@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/6407f07e-5d56-4b2c-9b64-7dc8e40b777c/resourceGroups/TakeOutTheBins/providers/Microsoft.Web/sites/takeoutthebins",
+  "appService.deploySubpath": ""
+}
